@@ -16,6 +16,9 @@ $(function () {
     pageNum = 1,
     pageRendering = false,
     pageNumPending = null,
+    DEFAULT_SCALE_DELTA = 10,
+    DEFAULT_SCALE = 'page-width',
+    MIN_SCALE = 0.25,
     scale = 1; // 這邊可以縮放
   (canvas = document.getElementById('the-canvas')), // 抓html ID
     (ctx = canvas.getContext('2d'));
