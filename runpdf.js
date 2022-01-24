@@ -1,6 +1,6 @@
 var url = 'https://attoken.io/release/web_app/assets/res/ver2_0.pdf';
 
-var url = '../pdf/test.pdf';
+// var url = '../pdf/test.pdf';
 
 // If absolute URL from the remote server is provided, configure the CORS
 // header on that server.
