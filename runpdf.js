@@ -1,6 +1,7 @@
-// var url = 'https://www.cyut.edu.tw/~rcchen/research/html/ms/s9114635/thesis-9114635.pdf';
+var url =
+  'https://www.cyut.edu.tw/~rcchen/research/html/ms/s9114635/thesis-9114635.pdf';
 
-var url = '../pdf/test.pdf';
+// var url = '../pdf/test.pdf';
 
 // If absolute URL from the remote server is provided, configure the CORS
 // header on that server.
