@@ -1,5 +1,4 @@
-var url =
-  'https://www.cyut.edu.tw/~rcchen/research/html/ms/s9114635/thesis-9114635.pdf';
+var url = 'https://attoken.io/release/web_app/assets/res/ver2_0.pdf';
 
 // var url = '../pdf/test.pdf';
 
