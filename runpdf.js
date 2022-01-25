@@ -1,6 +1,6 @@
-var url = 'https://attoken.io/release/web_app/assets/res/ver2_0.pdf';
+// var url = 'https://www.cyut.edu.tw/~rcchen/research/html/ms/s9114635/thesis-9114635.pdf';
 
-// var url = '../pdf/test.pdf';
+var url = '../pdf/test.pdf';
 
 // If absolute URL from the remote server is provided, configure the CORS
 // header on that server.
@@ -19,7 +19,7 @@ $(function () {
     DEFAULT_SCALE_DELTA = 10,
     DEFAULT_SCALE = 'page-width',
     MIN_SCALE = 0.25,
-    scale = 1; // 這邊可以縮放
+    scale = 5; // 這邊可以縮放
   (canvas = document.getElementById('the-canvas')), // 抓html ID
     (ctx = canvas.getContext('2d'));
 
